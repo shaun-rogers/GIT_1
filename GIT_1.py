@@ -12,3 +12,5 @@ while x != y:
         y += 1
     else:
         y -= 1
+        
+print ("Successful")
